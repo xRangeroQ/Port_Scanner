@@ -1,4 +1,4 @@
-# 🔍 port_scanner
+# 🔍 Port Scanner
 
 A fast and lightweight multi-threaded TCP port scanner in Python.
 
